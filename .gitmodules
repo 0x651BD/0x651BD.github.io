@@ -1,0 +1,3 @@
+[submodule "WWAEditor"]
+	path = WWAEditor
+	url = https://github.com/0x651BD/WWAEditor.git
